@@ -9,5 +9,5 @@
 
 
 
-
-*There might be some missing dependencies in this repository*.
+*This repo consists of entire google cloud sdk.*
+*There might be some missing dependencies in this repo.*
